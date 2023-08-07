@@ -9,9 +9,6 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-.vscode/
-bin/
-obj/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -28,6 +25,9 @@ obj/
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+bin/
+obj/
 
 # Gradle cache directory
 .gradle/
